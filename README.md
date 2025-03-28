@@ -29,7 +29,7 @@ This is a simple weather application built using **React.js** and **Vite**, whic
 Weather App/
 │── .vercel/
 │── dist/
-│── node_modules
+│── node_modules/
 │── public/
 │── src/
 │   ├── App.jsx
