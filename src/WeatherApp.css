@@ -1,12 +1,14 @@
-body {
+body 
+{
   font-family: Arial, sans-serif;
-  background-image: url('/bg-image.jpg') no-repeat center center fixed;
   background-size: cover;
+  background-color: white;
   margin: 0;
   padding: 20px;
 }
 
-.container {
+.container 
+{
   max-width: 400px;
   margin: auto;
   background: white;
@@ -15,11 +17,13 @@ body {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
+h1 
+{
   text-align: center;
 }
 
-input {
+input 
+{
   width: 100%;
   padding: 10px;
   margin: 10px 0;
@@ -27,7 +31,8 @@ input {
   border-radius: 4px;
 }
 
-button {
+button 
+{
   width: 100%;
   padding: 10px;
   background-color: #28a745;
@@ -37,16 +42,19 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+button:hover 
+{
   background-color: #218838;
 }
 
-.error {
+.error 
+{
   color: red;
   text-align: center;
 }
 
-.weather-result {
+.weather-result 
+{
   margin-top: 20px;
   text-align: center;
 }

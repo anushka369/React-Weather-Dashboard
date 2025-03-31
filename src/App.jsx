@@ -1,7 +1,8 @@
 import React from "react";
 import WeatherApp from "./WeatherApp";
 
-function App() {
+function App() 
+{
   return (
     <div>
       <WeatherApp />
